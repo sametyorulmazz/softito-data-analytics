@@ -1,0 +1,3 @@
+Konu sayısı: 5
+Ortalama skor: 87.20
+Seviye: orta
