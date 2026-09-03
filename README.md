@@ -56,8 +56,6 @@ Project/
 - `data/`: kullanılan yerel veri ve veri açıklaması
 - `figures/`: kod tarafından üretilen, README içinde gösterilen çıktılar
 
-Veri dosyalarının tamamı [Data Catalog](DATA-CATALOG.md) sayfasında listelenmiştir.
-
 ## Kurulum ve çalıştırma
 
 Tek bir uygulamayı çalıştırmak için ilgili klasöre girin:
@@ -73,8 +71,6 @@ Tüm Python bağımlılıklarını tek ortamda kurmak için:
 pip install -r requirements-all.txt
 ```
 
-> CIFAR-10, açılmış hali yaklaşık 170 MB olduğu için depoya eklenmedi. İlgili CNN uygulaması veriyi ilk çalıştırmada Keras üzerinden indirir. Diğer uygulamaların girdileri yereldir.
-
 ## Depo özeti
 
 - 38 çalıştırılabilir Python uygulaması
@@ -82,8 +78,6 @@ pip install -r requirements-all.txt
 - 120’den fazla statik ve etkileşimli analiz çıktısı
 - 2 düzenlenebilir Power BI raporu
 - Proje bazında kurulum ve yeniden üretim adımları
-
-Safari üzerinden yayınlamak için [GitHub yükleme rehberini](GITHUB-YUKLEME.md) izleyin.
 
 ## Planlanan eklemeler
 
