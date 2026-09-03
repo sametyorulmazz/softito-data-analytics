@@ -1,6 +1,6 @@
 # Machine Learning
 
-Makine öğrenmesi çalışmaları, hedef değişkenin kullanımına ve modelleme amacına göre dört bölümde düzenlenmiştir.
+Makine öğrenmesi çalışmaları hedef değişkenin kullanımına ve modelleme amacına göre dört bölümde düzenlenmiştir.
 
 | Bölüm | Ne zaman kullanılır? | İçerik |
 |---|---|---|
