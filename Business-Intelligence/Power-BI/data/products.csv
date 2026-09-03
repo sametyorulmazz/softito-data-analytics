@@ -1,0 +1,16 @@
+UrunID,Ürün Adı,Kategori,Birim Fiyatı,Stok Miktarı,Tedarikçi
+101,Laptop Pro,Elektronik,3000,15,TechSupply Inc
+102,Fare Kablosuz,Aksesuarlar,80,100,AccessoryWorld
+103,Monitör 24",Elektronik,700,20,DisplayCorp
+104,Klavye Mekanik,Aksesuarlar,200,50,KeyTech
+105,Kulaklık Pro,Aksesuarlar,240,30,SoundMax
+106,SSD 1TB,Depolama,400,45,StoragePro
+107,Monitör 27",Elektronik,1250,10,DisplayCorp
+108,Webcam 4K,Aksesuarlar,250,25,VisionTech
+109,USB Hub,Aksesuarlar,50,80,ConnectorWorld
+110,Monitör Curved,Elektronik,4500,8,DisplayCorp
+111,Router WiFi 6,Ağ,450,35,NetConnect
+112,Harici SSD 2TB,Depolama,600,22,StoragePro
+113,Tablet Stylus,Aksesuarlar,120,60,PenTech
+114,Kablosuz Şarj,Aksesuarlar,45,90,ChargeFlow
+115,Laptop Ultra,Elektronik,5000,5,TechSupply Inc
